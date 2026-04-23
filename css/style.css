@@ -65,7 +65,7 @@ textarea {
     list-style: 45px;
 }
 
-.from-body {
+.form-body {
    padding: 30px; 
 }
 
@@ -73,11 +73,11 @@ textarea {
     margin-bottom: 15px;
 }
 
-.from-body p {
+.form-body p {
     margin-bottom: 20px;
 }
 
-.campo-brigatorio {
+.campo-obrigatorio {
     color: red;
 }
 
