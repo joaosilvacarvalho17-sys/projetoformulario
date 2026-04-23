@@ -73,4 +73,20 @@ textarea {
     margin-bottom: 15px;
 }
 
+.from-body p {
+    margin-bottom: 20px;
+}
+
+.campo-brigatorio {
+    color: red;
+}
+
+.caixaInputs {
+    margin-bottom: 35px;
+}
+
+.block {
+    display: block;
+}
+
 
