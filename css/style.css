@@ -9,7 +9,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #333;
+    color: #3c3d6b;
+    font-family: arial;
 }
 
 p, label {
@@ -33,7 +34,7 @@ textarea {
 .cabecalho {
     height: 160px;
     padding: 20px;
-    background-color: #1f2052;
+    background-color: #333;
 }
 
 .cabecalho h3 {
@@ -55,8 +56,8 @@ textarea {
 }
 
 .form-header p{
-    color: #1f2052;
-    border-bottom: 2px solid #1f2052;
+    color: #3c3d6b;
+    border-bottom: 5px solid #1f2052;
     width: 100%;
     text-align: center;
     margin: 0 auto;
