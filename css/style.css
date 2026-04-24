@@ -63,6 +63,9 @@ textarea {
     text-transform: uppercase;
     height: 45px;
     list-style: 45px;
+    font-size: 30px;
+    font-family: fantasy;
+
 }
 
 .form-body {
@@ -118,7 +121,7 @@ textarea {
 
 hr {
     margin-top: 20px;
-    height: 3px;
+    height: 5px;
     background: linear-gradient(to right,transparent,#1f2052,transparent);
     margin: 20px 0;
 }
