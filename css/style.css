@@ -126,4 +126,24 @@ hr {
     height: 5px;
     background: linear-gradient(to right,transparent,#1f2052,transparent);
     margin: 20px 0;
+    border: none;
+}
+
+#listaCarros {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+ .card {
+    width: 250px;
+    background: white;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: o 2px 5px rgba(0, 0, 0, 0.1) 
+}
+
+.card img {
+    width: 100%;
+    border-radius: 5px;
 }
