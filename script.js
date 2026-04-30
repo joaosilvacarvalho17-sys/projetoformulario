@@ -54,3 +54,11 @@ window.onload = function () {
         adicionarNaTela(carro);
     });
 }
+
+function excluirCarro(id) {
+    let carros = JSON.parse(localStorage.getItem('carros')) || [];
+    
+    carros = carros.filter(carro=> carro.id !== id);
+
+    localStorage.getElementById('listaCarros').innerHTML = "";
+}
